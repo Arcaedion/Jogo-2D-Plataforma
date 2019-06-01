@@ -9,6 +9,10 @@ Vídeo da aula:
 Neste repositório você pode encontrar todos os scripts criados na aula:
 
 [Dialogo](Dialogo.cs)
+
 [GerenciadorDeDialogo](GerenciadorDeDialogo.cs)
+
 [InicializadorDialogo](InicializadorDialogo.cs)
+
 [TextoDialogo](TextoDialogo.cs)
+
