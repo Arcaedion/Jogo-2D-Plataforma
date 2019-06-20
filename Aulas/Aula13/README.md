@@ -2,7 +2,7 @@
 
 ## Aula
 
-Vídeo da aula:
+Vídeo da aula: https://youtu.be/5Wknt1TMl6M
 
 ## Código
 
