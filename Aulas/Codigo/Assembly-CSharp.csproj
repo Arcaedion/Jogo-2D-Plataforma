@@ -61,8 +61,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ControladorDeVida.cs" />
+    <Compile Include="Assets\Scripts\ControladorDeVida.cs" />
     <Compile Include="Assets\Scripts\GerenciadorDeSons.cs" />
+    <Compile Include="Assets\Scripts\GerenciaJogo.cs" />
     <Compile Include="Assets\Scripts\Inimigo\CompInimigo.cs" />
     <Compile Include="Assets\Scripts\Inimigo\Impacto.cs" />
     <Compile Include="Assets\Scripts\Jogador\AtiraScript.cs" />
@@ -75,6 +76,7 @@
     <Compile Include="Assets\Scripts\Jogador\MovimentoDeJogador.cs" />
     <Compile Include="Assets\Scripts\Jogador\TiroLazer.cs" />
     <Compile Include="Assets\Scripts\Objetos\Dialogo.cs" />
+    <Compile Include="Assets\Scripts\Objetos\Extremidade.cs" />
     <Compile Include="Assets\Scripts\Objetos\GerenciadorDeDialogo.cs" />
     <Compile Include="Assets\Scripts\Objetos\InicializadorDialogo.cs" />
     <Compile Include="Assets\Scripts\Objetos\InteragirComBotao.cs" />

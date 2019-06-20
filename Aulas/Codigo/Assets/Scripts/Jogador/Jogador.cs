@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -48,7 +49,17 @@ public class Jogador : MonoBehaviour
     public void TomaDano(int dano)
     {
         _vidaAtual -= dano;
+        if(_vidaAtual <= 0)
+        {
+            Morre();
+        }
     }
+
+    private void Morre()
+    {
+        Destroy(gameObject);
+    }
+
 
     public void AtualizaVidaUI()
     {
