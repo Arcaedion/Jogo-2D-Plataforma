@@ -1,19 +1,39 @@
 fileFormatVersion: 2
 guid: 798d8e6fb418bdf4c96263ac88347a6f
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: RampaEsq1
-    21300002: BordaEsq
-    21300004: Plano
-    21300006: BordaDir
-    21300008: RampaDir1
-    21300010: RampaEsq2
-    21300012: Recheio1
-    21300014: Recheio2
-    21300016: Recheio3
-    21300018: RampaDir2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: RampaEsq1
+  - first:
+      213: 21300002
+    second: BordaEsq
+  - first:
+      213: 21300004
+    second: Plano
+  - first:
+      213: 21300006
+    second: BordaDir
+  - first:
+      213: 21300008
+    second: RampaDir1
+  - first:
+      213: 21300010
+    second: RampaEsq2
+  - first:
+      213: 21300012
+    second: Recheio1
+  - first:
+      213: 21300014
+    second: Recheio2
+  - first:
+      213: 21300016
+    second: Recheio3
+  - first:
+      213: 21300018
+    second: RampaDir2
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -131,6 +151,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3956ff0eb9bb5b14cb2d3a83caebb6ab
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -151,6 +172,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bbee4aaa446cc2a44b257f94b8305f30
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -171,6 +193,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bb20f5f6f397b2747ab14ddfb9721347
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -191,6 +214,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 08c92920cf3030745b0efeffad141f5a
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -211,6 +235,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c55de3da7779bb440a683b4240d6f751
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -231,6 +256,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 85aa6d70697764e4a9ffe8478ae24d6a
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -251,6 +277,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 95194bd9d77b894438ffb708cb685048
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -271,6 +298,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bac1e5b83f96b114185780729b8911f6
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -291,6 +319,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bfa3a69592332fb41a3e3b33d3010ecc
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -311,6 +340,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0d87b20b3ab328648a47d5ab0c603695
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -319,10 +349,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 2a6e130d30511054fbb2f1be378388d1
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

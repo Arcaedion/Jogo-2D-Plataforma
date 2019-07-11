@@ -1,74 +1,207 @@
 fileFormatVersion: 2
 guid: 7a7b4019eab73d34481966358b8b40d2
 ScriptedImporter:
-  fileIDToRecycleName:
-    100000: Marvin1__GO/Marvin1__GO
-    100002: Marvin1__GO/Marvin1__GO/Braco EsquerdoBaixo
-    100004: Marvin1__GO/Marvin1__GO/BracoDireitoBaixo
-    100006: Marvin1__GO/Marvin1__GO/BracoDireitoCima
-    100008: Marvin1__GO/Marvin1__GO/BracoEsquerdoCima
-    100010: "Marvin1__GO/Marvin1__GO/Cabe\xE7a"
-    100012: Marvin1__GO/Marvin1__GO/Corpo
-    100014: Marvin1__GO/Marvin1__GO/PernaDireita
-    100016: Marvin1__GO/Marvin1__GO/PernaEsquerda
-    100018: Marvin1__GO/Marvin1__GO/bone_1
-    100020: Marvin1__GO/Marvin1__GO/bone_1/bone_2
-    100022: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_3
-    100024: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_4
-    100026: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_4/bone_5
-    100028: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_6
-    100030: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_6/bone_7
-    100032: Marvin1__GO/Marvin1__GO/bone_1/bone_8
-    100034: Marvin1__GO/Marvin1__GO/bone_1/bone_8/bone_9
-    100036: Marvin1__GO/Marvin1__GO/bone_1/bone_10
-    100038: Marvin1__GO/Marvin1__GO/bone_1/bone_10/bone_11
-    400000: Marvin1__GO/Marvin1__GO/Transform
-    400002: Marvin1__GO/Marvin1__GO/Braco EsquerdoBaixo/Transform
-    400004: Marvin1__GO/Marvin1__GO/BracoDireitoBaixo/Transform
-    400006: Marvin1__GO/Marvin1__GO/BracoDireitoCima/Transform
-    400008: Marvin1__GO/Marvin1__GO/BracoEsquerdoCima/Transform
-    400010: "Marvin1__GO/Marvin1__GO/Cabe\xE7a/Transform"
-    400012: Marvin1__GO/Marvin1__GO/Corpo/Transform
-    400014: Marvin1__GO/Marvin1__GO/PernaDireita/Transform
-    400016: Marvin1__GO/Marvin1__GO/PernaEsquerda/Transform
-    400018: Marvin1__GO/Marvin1__GO/bone_1/Transform
-    400020: Marvin1__GO/Marvin1__GO/bone_1/bone_2/Transform
-    400022: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_3/Transform
-    400024: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_4/Transform
-    400026: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_4/bone_5/Transform
-    400028: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_6/Transform
-    400030: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_6/bone_7/Transform
-    400032: Marvin1__GO/Marvin1__GO/bone_1/bone_8/Transform
-    400034: Marvin1__GO/Marvin1__GO/bone_1/bone_8/bone_9/Transform
-    400036: Marvin1__GO/Marvin1__GO/bone_1/bone_10/Transform
-    400038: Marvin1__GO/Marvin1__GO/bone_1/bone_10/bone_11/Transform
-    2800000: Marvin1_
-    11400000: Marvin1__GO/Marvin1__GO/Braco EsquerdoBaixo/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400002: Marvin1__GO/Marvin1__GO/BracoDireitoBaixo/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400004: Marvin1__GO/Marvin1__GO/BracoDireitoCima/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400006: Marvin1__GO/Marvin1__GO/BracoEsquerdoCima/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400008: "Marvin1__GO/Marvin1__GO/Cabe\xE7a/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin"
-    11400010: Marvin1__GO/Marvin1__GO/Corpo/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400012: Marvin1__GO/Marvin1__GO/PernaDireita/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400014: Marvin1__GO/Marvin1__GO/PernaEsquerda/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    21200000: Marvin1__GO/Marvin1__GO/Braco EsquerdoBaixo/SpriteRenderer
-    21200002: Marvin1__GO/Marvin1__GO/BracoDireitoBaixo/SpriteRenderer
-    21200004: Marvin1__GO/Marvin1__GO/BracoDireitoCima/SpriteRenderer
-    21200006: Marvin1__GO/Marvin1__GO/BracoEsquerdoCima/SpriteRenderer
-    21200008: "Marvin1__GO/Marvin1__GO/Cabe\xE7a/SpriteRenderer"
-    21200010: Marvin1__GO/Marvin1__GO/Corpo/SpriteRenderer
-    21200012: Marvin1__GO/Marvin1__GO/PernaDireita/SpriteRenderer
-    21200014: Marvin1__GO/Marvin1__GO/PernaEsquerda/SpriteRenderer
-    21300000: "Cabe\xE7a"
-    21300002: BracoDireitoCima
-    21300004: BracoDireitoBaixo
-    21300006: Corpo
-    21300008: BracoEsquerdoCima
-    21300010: Braco EsquerdoBaixo
-    21300012: PernaEsquerda
-    21300014: PernaDireita
-    100100000: Marvin1__GO
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Marvin1__GO/Marvin1__GO
+  - first:
+      1: 100002
+    second: Marvin1__GO/Marvin1__GO/Braco EsquerdoBaixo
+  - first:
+      1: 100004
+    second: Marvin1__GO/Marvin1__GO/BracoDireitoBaixo
+  - first:
+      1: 100006
+    second: Marvin1__GO/Marvin1__GO/BracoDireitoCima
+  - first:
+      1: 100008
+    second: Marvin1__GO/Marvin1__GO/BracoEsquerdoCima
+  - first:
+      1: 100010
+    second: "Marvin1__GO/Marvin1__GO/Cabe\xE7a"
+  - first:
+      1: 100012
+    second: Marvin1__GO/Marvin1__GO/Corpo
+  - first:
+      1: 100014
+    second: Marvin1__GO/Marvin1__GO/PernaDireita
+  - first:
+      1: 100016
+    second: Marvin1__GO/Marvin1__GO/PernaEsquerda
+  - first:
+      1: 100018
+    second: Marvin1__GO/Marvin1__GO/bone_1
+  - first:
+      1: 100020
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_2
+  - first:
+      1: 100022
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_3
+  - first:
+      1: 100024
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_4
+  - first:
+      1: 100026
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_4/bone_5
+  - first:
+      1: 100028
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_6
+  - first:
+      1: 100030
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_6/bone_7
+  - first:
+      1: 100032
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_8
+  - first:
+      1: 100034
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_8/bone_9
+  - first:
+      1: 100036
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_10
+  - first:
+      1: 100038
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_10/bone_11
+  - first:
+      4: 400000
+    second: Marvin1__GO/Marvin1__GO/Transform
+  - first:
+      4: 400002
+    second: Marvin1__GO/Marvin1__GO/Braco EsquerdoBaixo/Transform
+  - first:
+      4: 400004
+    second: Marvin1__GO/Marvin1__GO/BracoDireitoBaixo/Transform
+  - first:
+      4: 400006
+    second: Marvin1__GO/Marvin1__GO/BracoDireitoCima/Transform
+  - first:
+      4: 400008
+    second: Marvin1__GO/Marvin1__GO/BracoEsquerdoCima/Transform
+  - first:
+      4: 400010
+    second: "Marvin1__GO/Marvin1__GO/Cabe\xE7a/Transform"
+  - first:
+      4: 400012
+    second: Marvin1__GO/Marvin1__GO/Corpo/Transform
+  - first:
+      4: 400014
+    second: Marvin1__GO/Marvin1__GO/PernaDireita/Transform
+  - first:
+      4: 400016
+    second: Marvin1__GO/Marvin1__GO/PernaEsquerda/Transform
+  - first:
+      4: 400018
+    second: Marvin1__GO/Marvin1__GO/bone_1/Transform
+  - first:
+      4: 400020
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_2/Transform
+  - first:
+      4: 400022
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_3/Transform
+  - first:
+      4: 400024
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_4/Transform
+  - first:
+      4: 400026
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_4/bone_5/Transform
+  - first:
+      4: 400028
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_6/Transform
+  - first:
+      4: 400030
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_2/bone_6/bone_7/Transform
+  - first:
+      4: 400032
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_8/Transform
+  - first:
+      4: 400034
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_8/bone_9/Transform
+  - first:
+      4: 400036
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_10/Transform
+  - first:
+      4: 400038
+    second: Marvin1__GO/Marvin1__GO/bone_1/bone_10/bone_11/Transform
+  - first:
+      28: 2800000
+    second: Marvin1_
+  - first:
+      114: 11400000
+    second: Marvin1__GO/Marvin1__GO/Braco EsquerdoBaixo/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400002
+    second: Marvin1__GO/Marvin1__GO/BracoDireitoBaixo/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400004
+    second: Marvin1__GO/Marvin1__GO/BracoDireitoCima/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400006
+    second: Marvin1__GO/Marvin1__GO/BracoEsquerdoCima/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400008
+    second: "Marvin1__GO/Marvin1__GO/Cabe\xE7a/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin"
+  - first:
+      114: 11400010
+    second: Marvin1__GO/Marvin1__GO/Corpo/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400012
+    second: Marvin1__GO/Marvin1__GO/PernaDireita/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400014
+    second: Marvin1__GO/Marvin1__GO/PernaEsquerda/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      212: 21200000
+    second: Marvin1__GO/Marvin1__GO/Braco EsquerdoBaixo/SpriteRenderer
+  - first:
+      212: 21200002
+    second: Marvin1__GO/Marvin1__GO/BracoDireitoBaixo/SpriteRenderer
+  - first:
+      212: 21200004
+    second: Marvin1__GO/Marvin1__GO/BracoDireitoCima/SpriteRenderer
+  - first:
+      212: 21200006
+    second: Marvin1__GO/Marvin1__GO/BracoEsquerdoCima/SpriteRenderer
+  - first:
+      212: 21200008
+    second: "Marvin1__GO/Marvin1__GO/Cabe\xE7a/SpriteRenderer"
+  - first:
+      212: 21200010
+    second: Marvin1__GO/Marvin1__GO/Corpo/SpriteRenderer
+  - first:
+      212: 21200012
+    second: Marvin1__GO/Marvin1__GO/PernaDireita/SpriteRenderer
+  - first:
+      212: 21200014
+    second: Marvin1__GO/Marvin1__GO/PernaEsquerda/SpriteRenderer
+  - first:
+      213: 21300000
+    second: "Cabe\xE7a"
+  - first:
+      213: 21300002
+    second: BracoDireitoCima
+  - first:
+      213: 21300004
+    second: BracoDireitoBaixo
+  - first:
+      213: 21300006
+    second: Corpo
+  - first:
+      213: 21300008
+    second: BracoEsquerdoCima
+  - first:
+      213: 21300010
+    second: Braco EsquerdoBaixo
+  - first:
+      213: 21300012
+    second: PernaEsquerda
+  - first:
+      213: 21300014
+    second: PernaDireita
+  - first:
+      1001: 100100000
+    second: Marvin1__GO
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -139,6 +272,7 @@ ScriptedImporter:
       width: 0
       height: 0
     spriteID: 
+    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -162,6 +296,7 @@ ScriptedImporter:
       width: 270
       height: 250
     spriteID: 83d6e61addb5df34ebe1d1c74d89176f
+    internalID: 0
     spriteBone:
     - name: bone_3
       position: {x: 113.23071, y: 9.128387, z: 0}
@@ -550,6 +685,7 @@ ScriptedImporter:
       width: 90
       height: 90
     spriteID: 4793612f2eea104459200794d5615910
+    internalID: 0
     spriteBone:
     - name: bone_6
       position: {x: 59.765015, y: 56.769318, z: 0}
@@ -953,6 +1089,7 @@ ScriptedImporter:
       width: 130
       height: 160
     spriteID: 9d47702df240c0a41b54b54c1e04a6e1
+    internalID: 0
     spriteBone:
     - name: bone_7
       position: {x: 33.032166, y: 162.84961, z: 0}
@@ -1401,6 +1538,7 @@ ScriptedImporter:
       width: 140
       height: 220
     spriteID: fe02a461169d6dc44b9b41a7717fd09e
+    internalID: 0
     spriteBone:
     - name: bone_1
       position: {x: 79.61899, y: 3.9037018, z: 0}
@@ -1814,6 +1952,7 @@ ScriptedImporter:
       width: 60
       height: 80
     spriteID: 9616ef7613346de408ca8c86448b9edc
+    internalID: 0
     spriteBone:
     - name: bone_4
       position: {x: 27.11383, y: 56.769318, z: 0}
@@ -2205,6 +2344,7 @@ ScriptedImporter:
       width: 100
       height: 160
     spriteID: 528dfabae104466408033111a61cd0a3
+    internalID: 0
     spriteBone:
     - name: bone_5
       position: {x: 33.084625, y: 161.63358, z: 0}
@@ -2674,6 +2814,7 @@ ScriptedImporter:
       width: 90
       height: 120
     spriteID: 934b8993a538ddf4ca8378065143cda4
+    internalID: 0
     spriteBone:
     - name: bone_9
       position: {x: 86.246025, y: -0.00004463636, z: 0}
@@ -3086,6 +3227,7 @@ ScriptedImporter:
       width: 70
       height: 130
     spriteID: 867eb66c82d72e441aecb45b805e3866
+    internalID: 0
     spriteBone:
     - name: bone_11
       position: {x: 87.17262, y: 0.00003969875, z: 0}
@@ -3733,5 +3875,6 @@ ScriptedImporter:
     index: 9
   - go: {fileID: 100038, guid: 7a7b4019eab73d34481966358b8b40d2, type: 3}
     index: 10
-  firstCreate: 0
   generateGOHierarchy: 0
+  textureAssetName: Marvin1_
+  prefabAssetName: Marvin1__GO

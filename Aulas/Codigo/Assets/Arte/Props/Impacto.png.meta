@@ -1,13 +1,21 @@
 fileFormatVersion: 2
 guid: 67e04e844414f524d862f6275fea908e
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Impacto_0
-    21300002: Impacto_1
-    21300004: Impacto_2
-    21300006: Impacto_3
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Impacto_0
+  - first:
+      213: 21300002
+    second: Impacto_1
+  - first:
+      213: 21300004
+    second: Impacto_2
+  - first:
+      213: 21300006
+    second: Impacto_3
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -125,6 +133,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: daab939c35cda6c4cbb09c03193382d8
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -145,6 +154,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 08dff1ff3431421498c670e3982c64c5
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -165,6 +175,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c81277adc70973a4ba829d41044347ff
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -185,6 +196,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6373e5944d409d443ad55ccb55b952f4
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -193,10 +205,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 497cbbc8e07fd014cbe98c1d2e253955
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
