@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CombateMelee.cs" />
     <Compile Include="Assets\GerenciadorTimeline.cs" />
     <Compile Include="Assets\Scripts\ControladorDeVida.cs" />
     <Compile Include="Assets\Scripts\GerenciadorDeSons.cs" />

@@ -4,19 +4,21 @@ using UnityEngine;
 
 public class GerenciadorDeSons : MonoBehaviour
 {
+
     [SerializeField]
-    private AudioClip _morteVogon;
+    private AudioClip _morte;
 
     private List<AudioSource> _audios;
 
     private void Awake()
     {
+
         _audios = new List<AudioSource>();
-        if(_morteVogon != null)
+        if(_morte != null)
         {
             var ac = gameObject.AddComponent<AudioSource>();
-            ac.clip = _morteVogon;
-            ac.name = "MorteVogon";
+            ac.clip = _morte;
+            ac.name = "Morte";
             _audios.Add(ac);
         }
     }
